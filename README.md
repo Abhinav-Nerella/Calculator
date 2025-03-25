@@ -2,6 +2,8 @@
 
 A simple and interactive calculator built using HTML, CSS, and JavaScript.
 
+
+
 # Features:
 
 # Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division
@@ -12,6 +14,9 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript.
 
 # -> Supports keyboard input for operations
 
+
+
+
 # -> Technologies Used
 
 # HTML: Structure of the calculator
@@ -19,6 +24,9 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript.
 # CSS: Styling for a visually appealing design
 
 # JavaScript: Logic for performing calculations
+
+
+
 
 # Usage:
 
@@ -32,9 +40,14 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript.
 
 # -> You can also use your keyboard for input.
 
+
+
+
 # Screenshot:
 
 # (https://imgur.com/a/ZaSvo43)
+
+
 
 # Contributing:
 
@@ -49,6 +62,9 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript.
 # -> Push to the branch: git push origin feature-name
 
 # -> Open a pull request.
+
+
+
 
 # -> Contact:
 
